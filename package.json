@@ -1,5 +1,5 @@
 {
-  "name": "@brlja/react-native-slider",
+  "name": "@vanand/react-native-slider",
   "version": "0.12.1",
   "description": "A pure JavaScript <Slider /> component for react-native",
   "main": "lib/Slider.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Brlja/react-native-slider.git"
+    "url": "git@github.com:vabhawanand/react-native-slider.git"
   },
   "dependencies": {
     "prop-types": "^15.5.6"
